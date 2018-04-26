@@ -7,7 +7,7 @@ import * as mock from 'lib/NCData';
 
 export const NCNETWORK_REQUESTS_ENABLED = true;
 
-const HTTPS_ENABLED = true;
+const HTTPS_ENABLED = false;
 const BASE_URL = 'api.aion.network/aion';
 
 const stripTrailingSlash = (url) => {

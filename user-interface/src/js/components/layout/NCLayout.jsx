@@ -90,7 +90,7 @@ class NCLayout extends Component {
             
             <div className="pt-navbar-group navbar-group-left">
               <Link to={"/dashboard"} className="logo">
-                <img className="logo-img" src="img/logo/aion-icon.svg" alt="logo"/>
+                <img className="logo-img" src="img/logo/aion-coin-white.svg" alt="logo"/>
                 <span className="title">Dashboard</span>
               </Link>
               <span className="pt-navbar-divider"></span>              
